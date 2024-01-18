@@ -1,5 +1,5 @@
 
-`include "define.v"
+
 
 module NeuralChip (
     input 	     CLK, // system clock 
